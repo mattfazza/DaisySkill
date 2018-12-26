@@ -1,0 +1,24 @@
+{
+    "session": {
+        "sessionId": "SessionId.154291c5-a13f-4e7a-ab5a-24234adf",
+        "application": {
+            "applicationId": "amzn1.echo-sdk-ams.app.APP_ID"
+    },
+    "attributes": {},
+    "user": {
+        "userId": null
+    },
+    "new": true
+    },
+    "request": {
+        "type": "IntentRequest",
+        "requestId": "EdwRequestId.474c15c8-14d2-4a77-a4ce-154291c5",
+        "timestamp": "2016-07-05T22:02:01Z",
+        "intent": {
+            "name": "AboutIntent",
+            "slots": { }
+        },
+        "locale": "en-US"
+    },
+    "version": "1.0"
+}
